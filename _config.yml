@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Photography
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Photography Portfolio"
+url: "https://kshekk.github.io"
+baseurl: "/photography"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://kshekk.github.io/photography/gallery/"  
+  - JOURNAL: "https://kshekk.github.io/photography/journal/"
+  - ABOUT: "https://kshekk.github.io/photography/about/"
 
 # All translation keys
 translations:
