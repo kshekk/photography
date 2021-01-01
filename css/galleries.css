@@ -73,7 +73,7 @@ iframe#okplayer { min-width: 100%; min-height: 100%; }
 #gallerynav a.thumbs { padding: 0 1.5em 0 0; }
 #gallerynav a:hover, #gallerynav a.active { color: #EA8E00; }
 #gallerynav a:hover svg { fill: #EA8E00; }
-#gallerynav a.pause { font-size: .7em; padding-left: .9em; position: relative; top: -3px; font-weight: normal; }
+#gallerynav a.pause { font-size: 4em; padding-left: .9em; position: relative; top: -3px; font-weight: normal; }
 #gallerythumbs { position: fixed; width: 100%; height: 120px; text-align: left; left: 0; bottom: -24px;/*hide scroll track*/ z-index: 888; white-space: nowrap; padding: 0 !important; overflow: hidden; overflow-x: scroll;  background: #222;
 -webkit-transform: translate3d(0,100%,0); transform: translate3d(0,100%,0); 
 -webkit-transition: -webkit-transform 0.4s; transition: transform 0.4s; }
