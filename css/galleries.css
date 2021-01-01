@@ -60,7 +60,7 @@
 .fullscreen-gallery .gallery-video  { height: 100%; width: 100%; background-size: cover; }
 .fullscreen-gallery .gallery-video video { height: 100%; width: 100%; display: inline-block; vertical-align: baseline; }
 .fullscreen-gallery .gallery-icon img { min-width: 100%; min-height: 100%; }
-.fullscreen-gallery .gallery-caption h3 { font-size: 1.15em; margin-bottom: .3em; text-transform: none; }
+.fullscreen-gallery .gallery-caption h3 { font-size: 3em; margin-bottom: .3em; text-transform: none; }
 
 .fullscreen-gallery.kenburns-gallery .gallery-icon { display: none; }
 .fullscreen-gallery.kenburns-gallery canvas { z-index: -1; position: absolute; left: 0; top: 0; }
